@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Le Pas des Haies",
+               "short_name" : "Le Pas des Haies",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Grandchamps-des-Fontaines",
+               "short_name" : "Grandchamps-des-Fontaines",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loire-Atlantique",
+               "short_name" : "44",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44119",
+               "short_name" : "44119",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Le Pas des Haies, 44119 Grandchamps-des-Fontaines, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.380971,
+               "lng" : -1.594136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3885258,
+                  "lng" : -1.5781286
+               },
+               "southwest" : {
+                  "lat" : 47.3734152,
+                  "lng" : -1.6101434
+               }
+            }
+         },
+         "place_id" : "ChIJo7k4vUH0BUgRwjUEGTDakeE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

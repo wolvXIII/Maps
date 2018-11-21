@@ -1,0 +1,40 @@
+[
+	{
+		"place_id":"42768541",
+		"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright",
+		"osm_type":"node",
+		"osm_id":"3089035872",
+		"boundingbox":[
+			"47.3609368",
+			"47.4009368",
+			"-1.614777",
+			"-1.574777"
+		],
+		"lat":"47.3809368",
+		"lon":"-1.594777",
+		"display_name":"Le Pas des Haies, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, France",
+		"class":"place",
+		"type":"hamlet",
+		"importance":0.775,
+		"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/poi_place_village.p.20.png"
+	},
+	{
+		"place_id":"17262156",
+		"licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright",
+		"osm_type":"node",
+		"osm_id":"1705879833",
+		"boundingbox":[
+			"47.3807918",
+			"47.3808918",
+			"-1.5948768",
+			"-1.5947768"
+		],
+		"lat":"47.3808418",
+		"lon":"-1.5948268",
+		"display_name":"Pas des Haies, D 26, Grandchamp-des-Fontaines, Nantes, Loire-Atlantique, Pays de la Loire, Metropolitan France, 44119, France",
+		"class":"highway",
+		"type":"bus_stop",
+		"importance":0.501,
+		"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/transport_bus_stop2.p.20.png"
+	}
+]
